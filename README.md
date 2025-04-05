@@ -45,12 +45,23 @@ Me gusta desarrollar soluciones creativas y eficientes, y siempre estoy en búsq
 
 ---
 
-## Contacto 📬
+## 📬 Contacto
 
-- 📧 **Correo:** [rivangel18z@gmail.com](mailto:rivangel18z@gmail.com)
-- 💼 **LinkedIn:** [Angel Lopez Rivera](https://www.linkedin.com/in/angel-lopez-rivera-1bb291351/)
-- 📸 **Instagram:** [riv18z](https://www.instagram.com/riv18z/)
+<p align="left">
+  <a href="mailto:rivangel18z@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/angel-lopez-rivera-1bb291351/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/riv18z/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>
 
 ---
+
+<p align="center"><strong>¡Gracias por visitar mi perfil! 🚀</strong></p>
+
 
 ¡Gracias por visitar mi perfil! 🙌
