@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy Angel
+# ¡Hola!  Soy Angel
 
 ## Sobre mí
 Soy estudiante de Desarrollo de Software, apasionado por la tecnología y el aprendizaje constante.  
@@ -6,7 +6,7 @@ Me gusta desarrollar soluciones creativas y eficientes, y siempre estoy en búsq
 
 ---
 
-## Tecnologías que manejo 🚀
+## Tecnologías que manejo 
 
 ### Lenguajes de Programación
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
